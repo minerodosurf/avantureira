@@ -5,13 +5,11 @@
 header:
 - title: About
   url: /#about
-- title: Services
-  url: /#services
-- title: Members
-  url: /#members
+- title: Trips
+  url: /#trips
+- title: Crew
+  url: /#crew
 - title: History
   url: /#timeline
-- title: Contacts
-  url: /#contacts
-- title: Links
-  url: /links
+- title: Social
+  url: /#social

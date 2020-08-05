@@ -21,7 +21,7 @@ sections:
         class: btn-light
 
   - type: services.html
-    section_id: services
+    section_id: trips
     #background_style: bg-info
     title: At Your Service
     services:
@@ -87,7 +87,7 @@ sections:
         class: btn-light
 
   - type: members.html
-    section_id: members
+    section_id: crew
     title: Our Crew!
     background_style: bg-info text-white
     members:
@@ -122,7 +122,7 @@ sections:
           and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
-    section_id: contacts
+    section_id: social
     title: Let's Get In Touch!
     text: >-
       Ready to start your next project with us? Give us a call or send us an email
