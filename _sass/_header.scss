@@ -1,9 +1,10 @@
 .navbar-brand {
     span {
-        color:#00cccc;
+        color: transparent;
         font-family: 'Atma', cursive;
-        -webkit-text-fill-color: white; /* Will override color (regardless of order) */
-        -webkit-text-stroke-width: 4px;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke-width: 2px;
         -webkit-text-stroke-color: #00cccc;
+        font-size: 40px;
     }
 }
