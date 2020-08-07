@@ -1,5 +1,8 @@
 .navbar-brand {
     span {
-        visibility: hidden;
+        color:#00cccc;
+        -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+        -webkit-text-stroke-width: 4px;
+        -webkit-text-stroke-color: #00cccc;
     }
 }
